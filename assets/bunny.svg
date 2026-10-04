@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 270">
+<defs><filter id="s"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#c88aaa" flood-opacity=".18"/></filter></defs>
+<g filter="url(#s)">
+  <ellipse cx="120" cy="244" rx="70" ry="12" fill="#f1dce7"/>
+  <ellipse cx="89" cy="67" rx="24" ry="59" fill="#fffdfd" transform="rotate(-10 89 67)"/>
+  <ellipse cx="151" cy="67" rx="24" ry="59" fill="#fffdfd" transform="rotate(10 151 67)"/>
+  <ellipse cx="89" cy="66" rx="10" ry="40" fill="#ffd2e5" transform="rotate(-10 89 66)"/>
+  <ellipse cx="151" cy="66" rx="10" ry="40" fill="#ffd2e5" transform="rotate(10 151 66)"/>
+  <circle cx="120" cy="151" r="72" fill="#fffdfd"/>
+  <ellipse cx="120" cy="196" rx="50" ry="55" fill="#fffafc"/>
+  <ellipse cx="97" cy="143" rx="7" ry="9" fill="#524958"/>
+  <ellipse cx="143" cy="143" rx="7" ry="9" fill="#524958"/>
+  <circle cx="95" cy="140" r="2.5" fill="#fff"/>
+  <circle cx="141" cy="140" r="2.5" fill="#fff"/>
+  <path d="M112 157q8-8 16 0-3 10-8 10t-8-10Z" fill="#ff98bd"/>
+  <path d="M120 167c-2 8-9 10-15 7M120 167c2 8 9 10 15 7" fill="none" stroke="#785f73" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="84" cy="163" r="11" fill="#ffd0e2" opacity=".72"/>
+  <circle cx="156" cy="163" r="11" fill="#ffd0e2" opacity=".72"/>
+  <ellipse cx="72" cy="206" rx="28" ry="17" fill="#fffdfd" transform="rotate(18 72 206)"/>
+  <ellipse cx="168" cy="206" rx="28" ry="17" fill="#fffdfd" transform="rotate(-18 168 206)"/>
+  <ellipse cx="89" cy="236" rx="31" ry="12" fill="#fffdfd"/>
+  <ellipse cx="151" cy="236" rx="31" ry="12" fill="#fffdfd"/>
+  <path d="M155 104c20-18 34-15 37-3 3 10-6 19-22 20" fill="#ffb6d4"/>
+  <circle cx="190" cy="100" r="9" fill="#ffe8f2"/>
+</g>
+</svg>
